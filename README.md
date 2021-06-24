@@ -34,6 +34,7 @@ skills:
   level: 70
 - name: whois
   level: 95
+  
 knowledge: Also worked on Adobe Photoshop , corel Draw and Flimora, grew up New Delhi
  
 Hobbies:
